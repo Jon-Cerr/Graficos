@@ -1,13 +1,13 @@
 /**
  * @file main.c
- * @author Jose Luis Cruz (jlcruz@ipn.mx)
- * @brief Mi primer programa de nuevo
+ * @author Alan Jonathan Cerritos Hernandez (alanchdez147@gmail.com)
+ * @brief Juego Duck Hunt en C
  * @version 0.1
- * @date 2025-12-01
- *
- * @copyright Copyright (c) 2025
- *
+ * @date 2025-12-04
+ * 
+ * 
  */
+
 #include "graficos.h"
 #include <stdlib.h>
 #include <time.h>
